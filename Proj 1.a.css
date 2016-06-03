@@ -1,0 +1,55 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+  
+}
+body {
+    background-image: url("http://i1196.photobucket.com/albums/aa411/jochelle324/mission-high-school-470_zps5paf0c7t.jpg");
+    width: 100%;
+    filter:grayscale(65%);
+    background-size: cover;
+    
+}
+.header {
+
+     text-align: center;
+     padding: 30px;
+      color: white;
+}
+header h1 {
+
+ font-family: Verdana;
+ margin-top: 0 auto;
+ padding: 30px;
+}
+.nav {
+   
+     background-size: cover;
+    padding: 15px;
+}
+.nav ul {
+    
+}
+.nav li {
+    display: inline-block;
+    color: white;
+    margin-left: 20px;
+  
+}
+.img-responsive{
+    margin: 0 auto;
+}
+ 
+ .main p {
+text-align: center;
+color: #fff;
+}  
+
+.main .btn {
+   
+}
+.footer{
+   
+    color: #B3B3B3;
+}
